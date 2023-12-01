@@ -1,8 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_height - Function goes through a binary tree
- * using post-order traversal
+ * binary_tree_height - Function measures the height of a binary tree
  * @tree: Pointer to the root node of the tree to traverse
  * Return: 0 - If Null
 */
