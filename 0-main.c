@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include "binary_trees.h"
 
 /**
@@ -6,6 +5,7 @@
  *
  * Return: Always 0 (Success)
  */
+ 
 int main(void)
 {
     binary_tree_t *root;
